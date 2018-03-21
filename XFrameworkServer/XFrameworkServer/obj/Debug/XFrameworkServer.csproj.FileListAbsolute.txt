@@ -1,0 +1,9 @@
+D:\Unity\XFramework\XFrameworkServer\XFrameworkServer\bin\Debug\XFrameworkServer.exe
+D:\Unity\XFramework\XFrameworkServer\XFrameworkServer\bin\Debug\XFrameworkServer.pdb
+D:\Unity\XFramework\XFrameworkServer\XFrameworkServer\obj\Debug\XFrameworkServer.csprojResolveAssemblyReference.cache
+D:\Unity\XFramework\XFrameworkServer\XFrameworkServer\obj\Debug\XFrameworkServer.csproj.CoreCompileInputs.cache
+D:\Unity\XFramework\XFrameworkServer\XFrameworkServer\obj\Debug\XFrameworkServer.exe
+D:\Unity\XFramework\XFrameworkServer\XFrameworkServer\obj\Debug\XFrameworkServer.pdb
+D:\Unity\XFramework\XFrameworkServer\XFrameworkServer\bin\Debug\XFrameworkServer.exe.config
+D:\Unity\XFramework\XFrameworkServer\XFrameworkServer\bin\Debug\MySql.Data.dll
+D:\Unity\XFramework\XFrameworkServer\XFrameworkServer\obj\Debug\XFrameworkServer.csproj.CopyComplete
